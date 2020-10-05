@@ -6,6 +6,10 @@ body{
   font-family: 'Noto Sans JP', sans-serif;
 }
 
+::after{
+margin-left: auto;
+margin-right: auto;
+}
 .wrapper{
   background-color: #fff;
 }
